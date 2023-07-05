@@ -1,2 +1,2 @@
-# basic_powershell_scripts
-Contains some vendor neutral query scripts that can be useful for admin work
+# ad_powershell
+Contains some vendor neutral AD query scripts that can be useful for admin work
