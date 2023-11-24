@@ -1,6 +1,6 @@
 function Get-ADInfo {
     param (
-        [string]$AccName
+        [string]$SAMAccName
     )
     Clear-Host
     Get-ADUser $SAMAccName -Properties * |
